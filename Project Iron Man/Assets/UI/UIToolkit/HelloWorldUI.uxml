@@ -1,0 +1,7 @@
+<ui:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <ui:VisualElement style="flex-grow: 1; top: auto; align-items: center; justify-content: center;">
+        <ui:Label text="Hello VR World" name="Text" />
+        <ui:Label text="Hello VR World" name="Text" style="align-self: center; transform-origin: center;" />
+        <ui:Button text="K pasa" />
+    </ui:VisualElement>
+</ui:UXML>
